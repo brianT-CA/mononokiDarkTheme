@@ -2,12 +2,29 @@
     "name": "mononokitheme",
     "displayName": "mononokiTheme",
     "description": "Simple dark theme.",
+    "publisher": "brianOC",
+    "author": {
+        "name": "Brian OC"
+    },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.52.0"
     },
+    "repository": {
+        "url": "https://github.com/brianT-CA/mononokiDarkTheme"
+    },
+    "bugs": {
+        "email": "https://github.com/brianT-CA/mononokiDarkTheme/issues"
+    },
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "dark",
+        "dark theme",
+        "brian",
+        "mononoki",
+        "theme"
     ],
     "contributes": {
         "themes": [

@@ -2,9 +2,9 @@
     "name": "mononokitheme",
     "displayName": "mononokiTheme",
     "description": "Simple dark theme.",
-    "publisher": "brianOC",
+    "publisher": "mattia",
     "author": {
-        "name": "Brian OC"
+        "name": "Mattia"
     },
     "version": "0.0.1",
     "engines": {

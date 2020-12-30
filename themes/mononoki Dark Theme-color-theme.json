@@ -15,8 +15,8 @@
 		"editorLineNumber.activeForeground": "#ffffff",
 		"editorLineNumber.foreground": "#ffffffaa",
 		"editorGroup.border": "#ffffff",
-		"editorGroup.emptyBackground": "#ffffff",
-		"editorGroupHeader.noTabsBackground": "#ffffff",
+		"editorGroup.emptyBackground": "#0d0d0d",
+		"editorGroupHeader.noTabsBackground": "#0d0d0d",
 		"editorGroupHeader.tabsBackground": "#0d0d0d",
 
 		"sideBarTitle.foreground": "#bbbbbb",

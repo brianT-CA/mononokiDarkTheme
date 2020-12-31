@@ -1,6 +1,6 @@
 {
     "name": "mononokitheme",
-    "displayName": "mononokiTheme",
+    "displayName": "mononoki Dark Theme",
     "description": "Simple dark theme.",
     "publisher": "mattia",
     "author": {
@@ -14,7 +14,7 @@
         "url": "https://github.com/brianT-CA/mononokiDarkTheme"
     },
     "bugs": {
-        "email": "https://github.com/brianT-CA/mononokiDarkTheme/issues"
+        "url": "https://github.com/brianT-CA/mononokiDarkTheme/issues"
     },
     "categories": [
         "Themes"

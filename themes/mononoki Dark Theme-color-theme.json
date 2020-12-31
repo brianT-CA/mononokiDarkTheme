@@ -20,11 +20,11 @@
 		"editorGroupHeader.tabsBackground": "#0d0d0d",
 
 		"sideBarTitle.foreground": "#bbbbbb",
-		"sideBar.foreground": "#ffffff",
+		"sideBar.foreground": "#ffffffaa",
 		"sideBar.dropBackground": "#ff0000",
 		"sideBar.background": "#0d0d0d",
 		"sideBarSectionHeader.background": "#0d0d0d",
-		"sideBarSectionHeader.foreground": "#ffffff",
+		"sideBarSectionHeader.foreground": "#ffffffaa",
 
 		"statusBar.background" : "#ff1b2d",
 		"statusBar.noFolderBackground" : "#ff1b2d",
